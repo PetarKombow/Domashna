@@ -1,0 +1,8 @@
+C:\Users\kombo\OneDrive\Работен плот\Домашна -Енергото\Domashna\Domashna\bin\Debug\Domashna.exe.config
+C:\Users\kombo\OneDrive\Работен плот\Домашна -Енергото\Domashna\Domashna\bin\Debug\Domashna.exe
+C:\Users\kombo\OneDrive\Работен плот\Домашна -Енергото\Domashna\Domashna\bin\Debug\Domashna.pdb
+C:\Users\kombo\OneDrive\Работен плот\Домашна -Енергото\Domashna\Domashna\obj\Debug\Domashna.csproj.AssemblyReference.cache
+C:\Users\kombo\OneDrive\Работен плот\Домашна -Енергото\Domashna\Domashna\obj\Debug\Domashna.csproj.SuggestedBindingRedirects.cache
+C:\Users\kombo\OneDrive\Работен плот\Домашна -Енергото\Domashna\Domashna\obj\Debug\Domashna.csproj.CoreCompileInputs.cache
+C:\Users\kombo\OneDrive\Работен плот\Домашна -Енергото\Domashna\Domashna\obj\Debug\Domashna.exe
+C:\Users\kombo\OneDrive\Работен плот\Домашна -Енергото\Domashna\Domashna\obj\Debug\Domashna.pdb
