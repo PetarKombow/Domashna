@@ -1,0 +1,8 @@
+C:\Users\kombo\OneDrive\Работен плот\Домашна -Енергото\Sudebna_zala\Sudebna_zala\bin\Debug\Sudebna_zala.exe.config
+C:\Users\kombo\OneDrive\Работен плот\Домашна -Енергото\Sudebna_zala\Sudebna_zala\bin\Debug\Sudebna_zala.exe
+C:\Users\kombo\OneDrive\Работен плот\Домашна -Енергото\Sudebna_zala\Sudebna_zala\bin\Debug\Sudebna_zala.pdb
+C:\Users\kombo\OneDrive\Работен плот\Домашна -Енергото\Sudebna_zala\Sudebna_zala\obj\Debug\Sudebna_zala.csproj.AssemblyReference.cache
+C:\Users\kombo\OneDrive\Работен плот\Домашна -Енергото\Sudebna_zala\Sudebna_zala\obj\Debug\Sudebna_zala.csproj.SuggestedBindingRedirects.cache
+C:\Users\kombo\OneDrive\Работен плот\Домашна -Енергото\Sudebna_zala\Sudebna_zala\obj\Debug\Sudebna_zala.csproj.CoreCompileInputs.cache
+C:\Users\kombo\OneDrive\Работен плот\Домашна -Енергото\Sudebna_zala\Sudebna_zala\obj\Debug\Sudebna_zala.exe
+C:\Users\kombo\OneDrive\Работен плот\Домашна -Енергото\Sudebna_zala\Sudebna_zala\obj\Debug\Sudebna_zala.pdb
