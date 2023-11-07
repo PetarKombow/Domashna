@@ -27,6 +27,7 @@ namespace Sudebna_zala
             if (vuzrast < 18)
             {
                 throw new ArgumentOutOfRangeException("Greshka");
+                return false;
             }
             else
             {
@@ -53,27 +54,28 @@ namespace Sudebna_zala
             Console.WriteLine($"Възраст: {vuzrast}");
             Console.WriteLine($"Месторабота: {mqstonarabota}");
             Console.WriteLine($"Срок на присъда: {sroknaprisuda}");
+            Console.WriteLine("------------------------------------------");
         }
 
         public static List<Danni> CreateObjectsList(int n)
         {
-            List<Danni> objectsList = new List<Danni>();
+            List<Danni> objList = new List<Danni>();
             for (int i = 0; i < n; i++)
             {
                 Danni obj = new Danni();
                 obj.Chetene();
                 if (obj.Validaciq())
                 {
-                    objectsList.Add(obj);
+                    objList.Add(obj);
                 }
                 else
                 {
-                    Console.WriteLine("Greshka.Otnovo");
+                    throw new ArgumentOutOfRangeException("Грешка");
                 }
             }
-            return objectsList;
+            return objList;
         }
-        public static double FindAverageAge(List<Danni> objectsList)
+        public static double AverageAge(List<Danni> objectsList)
         {
             if (objectsList.Count == 0)
             {

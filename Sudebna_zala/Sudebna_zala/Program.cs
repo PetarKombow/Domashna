@@ -10,11 +10,11 @@ namespace Sudebna_zala
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Kolko puti ");
+            Console.WriteLine("За колко човека вкарваме данни? ");
             int n = int.Parse(Console.ReadLine());
             List<Danni> objects = Danni.CreateObjectsList(n);
-            double averageAge = Danni.FindAverageAge(objects);
-            Console.WriteLine($"Средна възраст на обектите: {averageAge}");
+            double averageAge = Danni.AverageAge(objects);
+            Console.WriteLine($"Средна възраст на подсъдимите: {averageAge}");
         }
     }
 }
